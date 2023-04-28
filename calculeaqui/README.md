@@ -10,7 +10,7 @@ Existem dois modos de uso:
 - Na primeira opção o app realiza um web scraping no site do RA, de acordo com os parâmetros informados pelo usuário(nome da empresa e aba desejada).
 - Já na segunda opção, é necessário que o usuário informe os dados para que o cálculo seja realizado. Essa opção é válida quando o usuário deseja analisar um período específico, ou analisar a performance de um consultor.
 
-APP:
-https://calculeaqui.streamlit.app/
+**APLICATIVO:
+https://calculeaqui.streamlit.app/**
 
 Obrigado!
